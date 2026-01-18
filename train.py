@@ -3,7 +3,7 @@ import torch.optim as optim
 from torch.utils.data import DataLoader
 from src.models import VAE
 from src.dataset import ShapeNetCore
-from src.loss.py import AetherLoss
+from src.loss import AetherLoss     # <--- Correct (No .py)
 import os
 import time
 from tqdm import tqdm  # Professional progress bar
