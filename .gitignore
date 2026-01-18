@@ -1,0 +1,18 @@
+# Ignore Data
+data/
+*.zip
+*.tar.gz
+
+# Ignore Python Cache
+__pycache__/
+*.pyc
+
+# Ignore Checkpoints (Too large for GitHub)
+checkpoints/
+*.pth
+
+# Ignore IDE settings
+.vscode/
+
+# Ignore Generated Results (Optional, but keeps repo clean)
+*.html
