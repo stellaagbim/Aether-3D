@@ -101,7 +101,3 @@ If you use this framework in your research, please cite:
   title = {Aether-3D: Unsupervised Latent Manifold Learning},
   year = {2026},
   url = {[https://github.com/stellaagbim/Aether-3D](https://github.com/stellaagbim/Aether-3D)}
-}
-### Step 2: Push the Update
-This replaces the short version with the "Academic" version.
-
