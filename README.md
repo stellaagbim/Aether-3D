@@ -105,7 +105,3 @@ If you use this framework in your research, please cite:
 ### Step 2: Push the Update
 This replaces the short version with the "Academic" version.
 
-```powershell
-git add README.md
-git commit -m "docs: Expand README with mathematical formulation and architectural details"
-git push
